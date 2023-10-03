@@ -373,10 +373,10 @@ background-color: #404BBF;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.icon:hover{
+.footer-icon:hover{
     background-color: #31d0aa;
 }
-.icon:focus{
+.footer-icon:focus{
     background-color: #31d0aa;
 }
 .spanunten {
