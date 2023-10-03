@@ -373,7 +373,12 @@ background-color: #404BBF;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-
+.icon:hover{
+    background-color: #31d0aa;
+}
+.icon:focus{
+    background-color: #31d0aa;
+}
 .spanunten {
     color: #f4f4fd;
 }
@@ -382,6 +387,7 @@ background-color: #404BBF;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    margin-bottom: 16px;
 }
 .footer-insta {
     width: 40px;
@@ -389,6 +395,9 @@ background-color: #404BBF;
 }
 .footer-insta .icon{
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.instamg{
+   fill: #f4f4fd;
 }
 .socials-title {
     color: #FFFFFF;
