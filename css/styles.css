@@ -261,6 +261,9 @@ background-color: #404BBF;
     justify-content: center;
 
 }
+.icon:hover, :focus{
+    background-color: #404bbf;
+}
 
 /*Our Portfolio*/
 .fier {
