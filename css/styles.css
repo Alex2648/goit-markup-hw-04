@@ -276,6 +276,9 @@ background-color: #404BBF;
 .icon:hover, :focus{
     background-color: #404bbf;
 }
+.insta_1 {
+    fill: #f4f4fd;
+}
 
 /*Our Portfolio*/
 .fier {
