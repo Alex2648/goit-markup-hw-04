@@ -412,12 +412,13 @@ background-color: #404BBF;
    fill: #f4f4fd;
 }
 .socials-title {
+    margin-bottom: 16px;
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-bottom: 16px;
+    
   }
   
   .footer-socials {
