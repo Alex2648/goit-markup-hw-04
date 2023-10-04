@@ -208,6 +208,9 @@ background-color: #404BBF;
     padding: 32px 0;
 }
 .our {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
