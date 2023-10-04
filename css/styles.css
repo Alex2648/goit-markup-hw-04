@@ -363,6 +363,10 @@ background-color: #404BBF;
     padding: 0 15px;
     margin: 0 auto;
 }
+.footer_container {
+    display: flex;
+    
+}
 .logotext {
     margin-right: 120px;
 }
