@@ -168,6 +168,9 @@ img {
     min-width: 169px;
     height: 56px;
     border: none;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 4px;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
