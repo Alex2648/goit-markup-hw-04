@@ -365,7 +365,7 @@ background-color: #404BBF;
 }
 .footer_container {
     display: flex;
-    
+    gap: 16;
 }
 .logotext {
     margin-right: 120px;
