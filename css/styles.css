@@ -41,7 +41,7 @@ address {
     align-items: center;
 }
     
-::after { content: ''  ;
+.curren::after { content: ''  ;
     position: absolute;
     width: 100%;
     left: 0;
@@ -63,6 +63,18 @@ padding: 0 15px;
     display: flex;
     align-items: center;
 
+}
+
+.nav-link.current::after {
+content: '';
+position: absolute;
+left: 0;
+bottom: -1px;
+display: block;
+width: 100%;
+height:значення ;
+border-radius:значення ;
+background-color: значення;
 }
 .menu {
     display: flex;
